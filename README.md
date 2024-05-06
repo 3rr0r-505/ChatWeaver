@@ -10,8 +10,8 @@ Before running this application, make sure you have the following installed:
 - Python (version >= 3.6)
 - Flask
 - Python-dotenv (to interact with the Gemini API)
-You can install Flask and Requests using pip:
-`pip install flask python-dotenv`
+You can install Flask and Requests using pip: <br>
+   `pip install flask python-dotenv`
 
 
 ## Usage
