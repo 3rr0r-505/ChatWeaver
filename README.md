@@ -1,4 +1,5 @@
-# ChatWeaver
+# ChatWeaver <br><a href="https://www.python.org/"><img alt="" src="https://img.shields.io/badge/python-3.9%2B-blue?logo=python&logoColor=88d4d7"/></a> <a href="https://nodejs.org/en"><img alt="" src="https://img.shields.io/badge/Node.js-v16.4.0-339933?logo=node.js"/></a> <a href="https://www.mongodb.com/"><img alt="" src="https://img.shields.io/badge/MongoDB%20Atlas-v4.4.6-009441?logo=mongodb&logoColor=009441"/></a> <a href="https://www.microsoft.com/en-us/windows?r=1"><img alt="" src="https://img.shields.io/badge/OS-Windows-brighten?logo=windows&logoColor=blue&label=OS&labelColor=grey&color=blue"/></a>
+
 This is a simple chatbot application built using Python, Flask, and the Gemini API.
 
 ## Overview
