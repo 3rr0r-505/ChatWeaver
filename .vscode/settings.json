@@ -3,6 +3,7 @@
         "dotenv",
         "genai",
         "generativeai",
-        "jsonify"
+        "jsonify",
+        "webbrowser"
     ]
 }

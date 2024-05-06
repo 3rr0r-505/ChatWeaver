@@ -1,6 +1,7 @@
 import google.generativeai as genai
 import os
 import markdown
+import webbrowser
 from dotenv import load_dotenv
 from flask import Flask, render_template, request, jsonify
 
@@ -37,4 +38,5 @@ def get_chat_response(question):
 
 # Main entry point of the application
 if __name__ == '__main__':
-    app.run()
+    webbrowser.open('http://127.0.0.1:8000')
+    app.run(host='127.0.0.1', port=8000)

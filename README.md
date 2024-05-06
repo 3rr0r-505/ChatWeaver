@@ -9,9 +9,10 @@ This chatbot allows users to interact with it through a web interface. It levera
 Before running this application, make sure you have the following installed:
 - Python (version >= 3.6)
 - Flask
+- Markdown
 - Python-dotenv (to interact with the Gemini API)
 You can install Flask and Requests using pip: <br>
-   `pip install flask python-dotenv`
+   `pip install flask markdown python-dotenv`
 
 
 ## Usage
