@@ -10,9 +10,12 @@ Before running this application, make sure you have the following installed:
 - Python (version >= 3.6)
 - Flask
 - Markdown
-- Python-dotenv (to interact with the Gemini API)
+- Google.GenerativeAI
+- Flask-bcrypt
+- PyMongo
+- Python-dotenv (to interact with the Gemini API) <br>
 You can install Flask and Requests using pip: <br>
-   `pip install flask markdown python-dotenv`
+   `pip install -r requirements.txt`
 
 
 ## Usage
