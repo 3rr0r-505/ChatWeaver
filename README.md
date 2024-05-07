@@ -23,7 +23,7 @@ cd `ChatWeaver`
 3. Run the Flask application:
 python `app.py`
 4. Once the application is running, open your web browser and go to `http://localhost:5000` to access the chatbot interface.
-- For Testing use `admin@mail.com` & `admin` | `root@mail.com` & `root`
+- For Testing, use `admin@mail.com` & `admin` | `root@mail.com` & `root`
 
 ## Configuration
 Before running the application, you need to configure the Gemini API credentials. Open the `.env` file and replace `'YOUR_API_KEY'` with your actual Gemini API key.
