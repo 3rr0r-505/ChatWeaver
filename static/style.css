@@ -15,6 +15,15 @@ body,html{
 	border-radius: 15px !important;
 	background-color: rgba(0,0,0,0.4) !important;
 }
+
+.card-login{
+	height: 300px;
+	justify-content: center;
+	align-items: center;
+	border-radius: 15px !important;
+	background-color: rgba(0,0,0,0.4) !important;
+}
+
 .contacts_body{
 	padding:  0.75rem 0 !important;
 	overflow-y: auto;
@@ -135,6 +144,12 @@ border-radius: 0 0 15px 15px !important;
 	font-size: 10px;
 	color: rgba(255,255,255,0.6);
 }
+
+.user_info h2{
+	font-size: 20px;
+	color: rgba(255, 255, 255, 0.986);
+}
+
 .video_cam{
 	margin-left: 50px;
 	margin-top: 5px;

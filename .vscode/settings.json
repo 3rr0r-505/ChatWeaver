@@ -4,6 +4,7 @@
         "genai",
         "generativeai",
         "jsonify",
+        "pymongo",
         "webbrowser"
     ]
 }
